@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "friendlychat-e60b5",
+    "default": "friendlychat-e60b5"
+  },
+  "targets": {},
+  "etags": {}
+}
